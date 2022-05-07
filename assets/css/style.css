@@ -19,7 +19,7 @@ header {
 
 header h1 {
     display: inline-block;
-    font-size: 48px;
+    font-size: 48px; 
 }
 
 header h1 .seo {
@@ -55,6 +55,8 @@ p {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
+/* hero section begin */
+
 .hero {
     background-image: url("../images/digital-marketing-meeting.jpg");
     width: 100%;
@@ -64,6 +66,8 @@ p {
     position: relative;
     margin-bottom: 25px;
 }
+
+/* hero section end */
 
 .float-left {
     float: left;
