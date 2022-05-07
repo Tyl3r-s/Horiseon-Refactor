@@ -11,6 +11,11 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
+.font2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+/* Horiseon with styled letters (top) */
 header {
     padding: 20px;
     background-color: #2a607c;
@@ -25,7 +30,9 @@ header h1 {
 header h1 .seo {
     color: #d9dcd6;
 }
+/* end header */
 
+/* quick links top of page */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -50,10 +57,7 @@ a {
 p {
     font-size: 16px;
 }
-
-.font2 {
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-}
+/* end link buttons */
 
 /* hero section begin */
 
@@ -68,6 +72,25 @@ p {
 }
 
 /* hero section end */
+
+/* navigation links */
+
+.content-details {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.content-details img {
+    max-height: 200px
+}
+
+.content-details h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
 
 .float-left {
     float: left;
@@ -84,6 +107,10 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
+
+/* end of nav area */
+
+/* begin sidebar benefits */
 
 .benefits {
     margin-right: 20px;
@@ -115,22 +142,9 @@ p {
     max-width: 150px;
 }
 
-.content-details {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    background-color: #0072bb;
-    color: #ffffff;
-}
+/* end sidebar */
 
-.content-details img {
-    max-height: 200px
-}
-
-.content-details h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
+/* footer */
 
 footer {
     padding: 30px;
