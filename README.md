@@ -6,6 +6,6 @@ You can view my page here (https://tyl3r-s.github.io/Horiseon-Refactor/)
 
 As it appears below in this screenshot
 
-![screenshot of Horiseon](/assets/images/Screenshot1.png)
+![screenshot of Horiseon](https://ibb.co/4W9s4Wt)
 
 
