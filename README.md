@@ -6,7 +6,6 @@ You can view my page here (https://tyl3r-s.github.io/Horiseon-Refactor/)
 
 As it appears below in this screenshot
 
-(/assets/images/Screenshot1.jpg)
-
+![screenshot of Horiseon](/assets/images/Screenshot1.png)
 
 
